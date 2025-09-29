@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Diode Cathode Pin=T1-1
+Removed Pin From Net: NetName=Diode Anode Pin=T2-1
+Added Pin To Net: NetName=Diode Anode Pin=T1-1
+Added Pin To Net: NetName=Diode Cathode Pin=T2-1
+Added Room: Name=QSTL_LED_PCB

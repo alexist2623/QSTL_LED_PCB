@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Diode Anode Pin=J1-2
+Removed Pin From Net: NetName=Diode Cathode Pin=J1-4
+Change Component Designator: OldDesignator=M2 NewDesignator=M1
+Added Pin To Net: NetName=Diode Cathode Pin=J1-2
+Added Pin To Net: NetName=Diode Anode Pin=J1-4
+Added Member To Class: ClassName=QSTL_LED_PCB Member=Component M2 M2 Hole
+Added Room: Name=QSTL_LED_PCB
