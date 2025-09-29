@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J1 Old Footprint=FP-503480-0540-MFG New Footprint=FP-503480-0540-MFG
+Change Component Footprint: Designator=D1 Old Footprint=PCBComponent_1 New Footprint=D7805I
+Added Component: Designator=M1(M2)
+Added Component: Designator=M2(M2)
+Added Component: Designator=T1(Test_Point_Pin)
+Added Component: Designator=T2(Test_Point_Pin)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Member To Class: ClassName=QSTL_LED_PCB Member=Component M1 M2 Hole
+Added Member To Class: ClassName=QSTL_LED_PCB Member=Component M2 M2 Hole
+Added Member To Class: ClassName=QSTL_LED_PCB Member=Component T1 Test point pad
+Added Member To Class: ClassName=QSTL_LED_PCB Member=Component T2 Test point pad
