@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: QSTL_LED_PCB.PcbDoc   2025-09-29  2:19:03 PM
+NCDrill File Report For: QSTL_LED_PCB.PcbDoc   2025-09-29  2:34:41 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : QSTL_LED_PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             86        PTH        57.33mm (2.26inch)
+T1      0.3mm (12mil)                                             Round             243       PTH        212.92mm (8.38inch)
 T2      0.55mm (22mil)                                            Round             3         PTH        3.41mm (0.13inch)
 T3      2.4mm (94mil)                                             Round             2         PTH        9.60mm (0.38inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              91
+Totals                                                                              248
 
 Total Processing Time (hh:mm:ss) : 00:00:00
