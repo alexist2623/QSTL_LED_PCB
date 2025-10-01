@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Jeonghyun\SNU_GIT\QSTL_LED_PCB\PCB_Project\Project Outputs for QSTL_LED_PCB\Pick Place for QSTL_LED_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30-09-25
+Time:       21:25
+Revision:   7afbb89964c0ec7a4a677e31b921ae7a900f3451
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"T2","Test point pad","BottomLayer","Test_Point_Pin","7.5000mm","15.0150mm","180",""
+"T1","Test point pad","BottomLayer","Test_Point_Pin","7.5000mm","5.4150mm","180",""
+"M2","M2 Hole","TopLayer","M2","3.7900mm","5.4150mm","0",""
+"M1","M2 Hole","TopLayer","M2","3.7900mm","15.0150mm","0",""
+"J1","503480-0540","BottomLayer","FP-503480-0540-MFG","6.8250mm","10.2150mm","270","503480-0540 Connector FFC/FPC SKT 5 Position 0.5mm Solder Right Angle Surface Mount T/R"
+"D1","780nm Laser Diode","TopLayer","D7805I","3.2900mm","10.2150mm","270",""
